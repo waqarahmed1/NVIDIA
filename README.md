@@ -12,3 +12,4 @@ Introduction to NVIDIA hardware accelarration for ML use cases. Covering:
 - TensorRT
 - NVIDIA DCGM
 - NVIDIA multi instance GPU (MIG)
+- JAX
