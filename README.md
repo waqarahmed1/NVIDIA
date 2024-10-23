@@ -13,3 +13,4 @@ Introduction to NVIDIA hardware accelarration for ML use cases. Covering:
 - NVIDIA DCGM
 - NVIDIA multi instance GPU (MIG)
 - JAX
+- NeMo , Gen AI
