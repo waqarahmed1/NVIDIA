@@ -1,6 +1,6 @@
 # NVIDIA
 
-Introduction to NVIDIA hardware accelarration for ML use cases. Covering:
+Introduction to NVIDIA hardware accelaration for ML use cases. Covering:
 
 - NVIDIA GPU
 - NVIDIA DPU
